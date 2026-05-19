@@ -63,7 +63,7 @@ Task-Automation/
 ├── README.md
 ```
 
----
+
 
 ## ▶ How to Run the Project
 
@@ -131,14 +131,7 @@ Possible future enhancements:
 - Automatically organize files by date
 - Add logging system
 
----
 
-## 👨‍💻 Author
-
-**Pradeep Borra**  
-Python Programming Intern — CodeAlpha
-
----
 
 ## ⭐ Internship Task
 
